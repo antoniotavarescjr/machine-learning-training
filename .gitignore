@@ -208,8 +208,7 @@ __marimo__/
 
 # Datasets brutos e arquivos zip gigantes
 # Ignora a pasta que contém os downloads completos do COCO
-/desafio_treinamento_rede_yolo/data/coco_direct/
-/desafio_treinamento_rede_yolo/data/coco_limited/
+/desafio_treinamento_rede_yolo/data/
 
 # Modelos treinados, logs e resultados do Ultralytics
 # Esta é a pasta mais importante para ignorar
